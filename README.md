@@ -1,2 +1,2 @@
 # Odev1
- www.patika.dev  Ödev1
+ [patika.dev]{www.patika.dev}
